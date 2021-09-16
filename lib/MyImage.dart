@@ -8,7 +8,7 @@ class MyImage extends StatelessWidget {
     return Container(
       width: 50,
       height: 50,
-      child: Text("MyImage"),
+      child: Text("MyImage123"),
     );
   }
 }
